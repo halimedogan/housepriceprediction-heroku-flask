@@ -2,7 +2,7 @@
 
 ## Proje Linki (*Heroku* ile Deploy edildi):
 
-http://halimefeyzaahmethousepricepred.herokuapp.com/
+http://halimefeyzashousepricepredicti.herokuapp.com/
 
 ### Amaç
 
